@@ -3,3 +3,6 @@
 ################################################################################
 
 /DataStructuresAndAlgo/DataStructures/bin/Debug/netcoreapp3.1
+/DataStructuresAndAlgo/DataStructures/obj
+/DataStructuresAndAlgo/DataStructures.Test/bin/Debug/netcoreapp3.1
+/DataStructuresAndAlgo/DataStructures.Test/obj
