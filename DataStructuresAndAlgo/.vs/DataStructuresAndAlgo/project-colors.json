@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "770d0dd6-98a5-49d8-81a0-d7bfb892af51": {
+      "ProjectGuid": "770d0dd6-98a5-49d8-81a0-d7bfb892af51",
+      "DisplayName": "DataStructures",
+      "ColorIndex": 0
+    },
+    "c8e3859f-20e9-48dd-8425-a639f5f4fe37": {
+      "ProjectGuid": "c8e3859f-20e9-48dd-8425-a639f5f4fe37",
+      "DisplayName": "DataStructures.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
